@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConstraintLayoutBest</string>
+    <string name="hello_world_text">Hello Everything!</string>
+    <string name="random_heading">random_heading</string>
+</resources>
